@@ -1,0 +1,5 @@
+# IDE files
+.vscode/
+
+# Python virtual env
+py3env
